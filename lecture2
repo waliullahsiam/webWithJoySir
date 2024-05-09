@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture1</title>
+</head>
+
+<body>
+
+    <h1>212010036</h1>
+    <h2>212010036</h2>
+    <h3>212010036</h3>
+    <h4>212010036</h4>
+    <h5>212010036</h5>
+    <h6>212010036</h6>
+
+    <p style="color:rgb(79, 79, 196)">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa unde delectus
+        tempore. Saepe soluta optio
+        officiis libero harum, in ratione fuga aperiam magni inventore nesciunt non iste sequi, totam dignissimos?
+        Veritatis sequi doloremque qui ducimus nemo magni nostrum, blanditiis omnis quam eaque! Sapiente, quidem quas!
+        In voluptate nihil debitis, quas ratione, consectetur iure dolorem provident impedit odio hic, illum
+        necessitatibus.
+        Sit unde modi perferendis aut, facere voluptas minus, blanditiis dolores quibusdam quasi doloribus quod officiis
+        in architecto sequi a eos adipisci velit repellendus voluptatum debitis? Corrupti deserunt voluptates totam
+        dignissimos!
+        Facilis, architecto aspernatur delectus sequi corrupti excepturi provident. Temporibus non maiores impedit, quam
+        animi a veritatis sequi. Dicta aperiam corporis, excepturi corrupti aliquid sed temporibus laboriosam ex
+        explicabo similique voluptas.
+        Ipsam error, quasi, modi qui dolore id, neque similique minima quo inventore illo iure veritatis eligendi
+        adipisci ut accusantium delectus molestiae earum? Nam velit autem reiciendis eum laboriosam saepe pariatur?</p>
+
+
+    <hr>
+
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat enim quasi labore eaque quibusdam eos itaque
+        doloremque porro, <strong>illo hic in, esse nesciunt</strong> deleniti ullam perspiciatis tempora. <br>Cupiditate, molestiae ab?
+        Molestiae et quae, assumenda odit aliquid cupiditate dicta obcaecati quod, <u>error non neque aspernatur</u> illo
+        similique! Ab <i>fugit neque rem libero dolorem praesentium.</i> Ea reprehenderit doloribus, eveniet soluta eligendi
+        amet.</p>
+
+        <hr>
+
+    <p><mark>This is a mark tag</mark> </p>
+
+    <hr>
+
+    <i>This line is in italic</i>
+
+    <a href="https://www.w3schools.com/" target="_blank">Below is a website to learn web development from core</a><br>
+
+    <img src="./download.png" alt="Here was a logo of w3 school"><br><br><br><hr>
+
+
+    <a href="https://www.w3schools.com/"target="_blank"><img src="./download.png"></a>
+
+
+    <hr>
+
+    <h1>This is a list of my favourite fruits</h1>
+
+
+    <ol>
+
+        <li>Mango</li>
+        <li>Litchi</li>
+        <li>Pineapple</li>
+    </ol>
+
+
+    <h1>This is a list of my favourite that I dislike</h1>
+
+    <ul>
+        <li>Bananna</li>
+        <li>Guava</li>
+        <li>Papaya</li>
+    </ul>
+
+
+
+    <br>
+
+    <table border="4">
+
+        <tr>
+            <th>Name</th>
+            <th>ID</th>
+            <th>Favourite food</th>
+        </tr>
+
+
+        <tr>
+            <td>Siam</td>
+            <td>212010036</td>
+            <td>Kacchi</td>
+        </tr>
+
+        <tr>
+            <td>Safin</td>
+            <td>212010039</td>
+            <td>Burger</td>
+        </tr>
+
+
+
+
+    </table>
+
+
+
+    
+
+    
+
+
+
+</body>
+
+</html>
